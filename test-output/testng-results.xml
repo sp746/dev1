@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-08T15:37:37 IST" name="Default suite" finished-at="2024-12-08T15:37:55 IST" duration-ms="18160">
+  <suite started-at="2024-12-08T16:10:03 IST" name="Default suite" finished-at="2024-12-08T16:10:15 IST" duration-ms="12429">
     <groups>
     </groups>
-    <test started-at="2024-12-08T15:37:37 IST" name="Default test" finished-at="2024-12-08T15:37:55 IST" duration-ms="18160">
+    <test started-at="2024-12-08T16:10:03 IST" name="Default test" finished-at="2024-12-08T16:10:15 IST" duration-ms="12429">
       <class name="dev1.ChromeWithWebDriverManagerTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@235834f2]" started-at="2024-12-08T15:37:37 IST" name="setup" finished-at="2024-12-08T15:37:45 IST" duration-ms="7995" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@399f45b1]" started-at="2024-12-08T16:10:03 IST" name="setup" finished-at="2024-12-08T16:10:08 IST" duration-ms="5527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkTheUrl()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@235834f2]" started-at="2024-12-08T15:37:45 IST" name="checkTheUrl" finished-at="2024-12-08T15:37:54 IST" duration-ms="8838" status="PASS">
+        <test-method signature="checkTheUrl()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@399f45b1]" started-at="2024-12-08T16:10:08 IST" name="checkTheUrl" finished-at="2024-12-08T16:10:14 IST" duration-ms="5334" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkTheUrl -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@235834f2]" started-at="2024-12-08T15:37:54 IST" name="tearDown" finished-at="2024-12-08T15:37:55 IST" duration-ms="1304" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:dev1.ChromeWithWebDriverManagerTest@399f45b1]" started-at="2024-12-08T16:10:14 IST" name="tearDown" finished-at="2024-12-08T16:10:15 IST" duration-ms="1532" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
