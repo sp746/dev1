@@ -43,6 +43,7 @@ public class ChromeWithWebDriverManagerTest {
     }
     @Test
     public void checkTheUrl() {
+	    WebDriver driver = new EdgeDriver();
         test = extent.createTest("checkTheUrl").info("Starting the test");
 
         try {
